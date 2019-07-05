@@ -1,0 +1,6 @@
+/home/fmthhadmin/Debayan/clion-2019.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/fmthhadmin/Debayan/ZebraTrack
+-- CUDA include: /usr/local/cuda/include
+-- CUDA lib: /usr/local/cuda/lib64/libcudart_static.a;-lpthread;dl;/usr/lib/x86_64-linux-gnu/librt.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fmthhadmin/Debayan/ZebraTrack/cmake-build-debug
